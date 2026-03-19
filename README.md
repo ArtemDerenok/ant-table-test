@@ -1,3 +1,6 @@
+# Deploy
+https://graceful-axolotl-2b6df8.netlify.app/
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
